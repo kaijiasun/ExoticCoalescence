@@ -1,4 +1,7 @@
-%% Input parameter.
+% By Kai-Jia Sun and Lie-Wen Chen 2017
+% ref. 
+%% for LHC
+% Input parameter.
 massu = 0.3; masss=0.5;massc=1.5; rmsp = 0.88;rmsphi = 0.59;
 rmso = 0.68; rmsxi = 0.76;rmslam=0.83; gp=1/4; gphi=3/4;go=1/2;
 gxi=1/4;glam=1/4; gpenta3 = 1/8; gpenta5 = 3/16;rmspenta =0.84; 
