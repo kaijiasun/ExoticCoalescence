@@ -49,7 +49,7 @@ p.LamB5810.quan = [5.810  1/2 1 0 0  0 0 1 ]; % mass spin  B S  nc ncb nb nbb ; 
 p.LamB5810.quark = [ 2 0 0 1 ]; % u(d) s  c b 
 
 p.LamB5830.ID = 'Lambda-B-5830';
-p.LamB5830.quan = [5.830  1/2 1 0 0  0 0 1 ]; % mass spin  B S  nc ncb nb nbb£» spin not clear
+p.LamB5830.quan = [5.830  1/2 1 0 0  0 0 1 ]; % mass spin  B S  nc ncb nb nbbÂ£Â» spin not clear
 p.LamB5830.quark = [ 2 0 0 1 ]; % u(d) s  c b 
 
 
