@@ -2,7 +2,7 @@
 COAL-SH model is a phase-space quark coalescence model that can be used to make prediction on production of exotic particles in relativistic heavy-ion collisions [1]. The code is written in MATLAB.
 
 To run this code, open the window of MATLAB or octave, and run
-MainCoal
+Main_CoalSH
 
 The results are shown in Tab. II and Tab. III in Ref. [1].
 
