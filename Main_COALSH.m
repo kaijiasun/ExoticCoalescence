@@ -24,4 +24,4 @@ param = [0.1540    4.3800  461.8892  195.5666    0.0780];
 %param=[T V/(3.14*1000) Nu/nc Ns/nc ws]; nc=3 color
 paramcoal=[0.1540   13.7602  461.8892  195.5666   26.9500    1.1198];
 %paramcoal=[T V/1000  Nu/nc Ns/nc Nc/nc Nb/nc]
-[Yield236Me,Yield458Me] = Koquarkcoal(TM,paramcoal, [w param(5) wc wb SR]);
+[Yield236Me,Yield458Me] = SHquarkcoal(TM,paramcoal, [w param(5) wc wb SR]);
