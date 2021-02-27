@@ -48,7 +48,7 @@ else
 end
 
 %% particle library
-p = Koparlib;
+p = SHparlib;
 %%
 % prime production
 
