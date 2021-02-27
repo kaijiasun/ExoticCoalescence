@@ -1,4 +1,4 @@
-% By Kai-Jia Sun and Lie-Wen Chen 2017
+% COALSH model By Kai-Jia Sun and Lie-Wen Chen 2017
 % ref. [Phys.Rev. C95 (2017) no.4, 044905]
 %% for LHC
 % Input parameter.
