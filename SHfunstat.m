@@ -1,4 +1,4 @@
-function N = Kofunstat(control,param,particle,qmass)
+function N = SHfunstat(control,param,particle,qmass)
 
 massu = qmass.u; masss=qmass.s; massc=qmass.c;massb=qmass.b;
 SR = control.SR; WorRMS = control.WorRMS;dis=control.dis;
