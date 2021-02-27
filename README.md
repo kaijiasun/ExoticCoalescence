@@ -1,5 +1,5 @@
-# COALSH model for exotic particle production in RHICs
-COALSH model is a phase-space quark coalescence model that can be used to make prediction on production of exotic particles in relativistic heavy-ion collisions [1]. The code is written in MATLAB.
+# COAL-SH model for exotic particle production in RHICs
+COAL-SH model is a phase-space quark coalescence model that can be used to make prediction on production of exotic particles in relativistic heavy-ion collisions [1]. The code is written in MATLAB.
 
 To run this code, open the window of MATLAB or octave, and run
 MainCoal
