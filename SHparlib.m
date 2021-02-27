@@ -1,4 +1,4 @@
-function p=Koparlib
+function p=SHparlib
 %% particle library
 p.Kaonp.ID = 'Kaon';
 p.Kaonp.quan = [0.493677  0 0 1 0 0 0 0 ]; % mass spin  B S  nc ncb nb nbb
