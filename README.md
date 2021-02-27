@@ -4,6 +4,6 @@ COAL-SH model is a phase-space quark coalescence model that can be used to make 
 To run this code, open the window of MATLAB or octave, and run
 Main_CoalSH
 
-The results are shown in Tab. II and Tab. III in Ref. [1].
+The results are shown in Tab. II and Tab. III of Ref. [1].
 
 Ref.[1]: Kai-Jia Sun and Lie-Wen Chen, Phys.Rev. C95 (2017) no.4, 044905. "Analytical coalescence formula for particle production in relativistic heavy-ion collisions"
