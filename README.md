@@ -1,7 +1,9 @@
 # ExoticCoalescence
-An analytic formula for quark coalescence model that can be used to make prediction on production of exotic particles in relativistic heavy-ion collisions.
+An analytic formula for quark coalescence model that can be used to make prediction on production of exotic particles in relativistic heavy-ion collisions [1]. The code is written in MATLAB.
 
-Open MATLAB or octave, and run
+To run this code, open the window of MATLAB or octave, and run
 MainCoal
+
+
 
 Ref.[1]: Kai-Jia Sun and Lie-Wen Chen, Phys.Rev. C95 (2017) no.4, 044905. "Analytical coalescence formula for particle production in relativistic heavy-ion collisions"
