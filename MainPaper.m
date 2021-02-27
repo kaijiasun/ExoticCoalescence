@@ -1,5 +1,5 @@
 % By Kai-Jia Sun and Lie-Wen Chen 2017
-% ref. 
+% ref. [Phys.Rev. C95 (2017) no.4, 044905]
 %% for LHC
 % Input parameter.
 massu = 0.3; masss=0.5;massc=1.5; rmsp = 0.88;rmsphi = 0.59;
