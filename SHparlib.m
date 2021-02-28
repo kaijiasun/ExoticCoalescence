@@ -232,7 +232,7 @@ p.OO3228.quan =[3.228 0 2 -6 0  0 0 0 ]; % mass spin  B S  nc ncb nb nbb
 p.OO3228.quark = [ 0 6  0 0 ]; % u(d) s  c b
 
 p.pO2552.ID = 'proton-omega-2552';
-p.pO2552.quan =[2.552 0 2 -3 0  0 0 0 ]; % mass spin  B S  nc ncb nb nbb
+p.pO2552.quan =[2.552 2 2 -3 0  0 0 0 ]; % mass spin  B S  nc ncb nb nbb
 p.pO2552.quark = [ 3 3  0 0 ]; % u(d) s  c b
 
 p.Hcpp3377.ID = 'Hc-plus-plus-3377';
